@@ -2,7 +2,10 @@
   <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif"></img>
 </p>
 <h1 align="center"> Hi, <img src= "https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="45px" height="45px"> I am Goutham Rajesh <h1>
-<h3 align="center"> Tech Enthusiast. Volunteer. Content Creator </h3>
+<p align="center">
+  <img src="banner.gif"></img>
+</p>
+  <h3 align="center"> Tech Enthusiast. Volunteer. Content Creator </h3>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=gouthamrajesh&color=lightgrey">
   </p>
