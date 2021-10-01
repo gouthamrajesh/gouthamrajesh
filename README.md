@@ -27,6 +27,8 @@
   <p align ="center"> 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=gouthamrajesh">
   </p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=gouthamrajesh&custom_title=Goutham%20Rajesh's%20Contribution%20Graph&theme=react-dracula">
+
   
   <h2>🛠Languages and Tools</h2>
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/code.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/Abhijith14/Abhijith14/master/assets/code.gif" align="right" style="max-width:100%;"></a>
