@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> Hi, <img src= "https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="45px" height="45px"> I am Goutham Rajesh <h1>
 <p align="center">
-  <img src="final banner.gif"></img>
+  <img src="Goutham - LinkedIn Banner.png"></img>
 </p>
   <h3 align="center"> Tech Enthusiast. Volunteer. Content Creator </h3>
   <p align="center">
