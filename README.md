@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif"></img>
 </p>
-<h1 align="center"> Hi, <img src= "https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="45px" height="45px"> I am Goutham Rajesh <h1>
+<h1 align="center"> Hi, <img src= "https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" width="45px" height="45px"> I am Goutham Rajesh <h1>
 <p align="center">
   <img src="Goutham - LinkedIn Banner.png"></img>
 </p>
