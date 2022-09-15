@@ -11,7 +11,7 @@
   </p>
   
   <h2> Who Am I ? </h2>
-    <p>Myself <a href="https://gouthamrajesh.me/">Goutham Rajesh</a> currently pursuing 2nd Year B.Tech at GEC Barton Hill in IT Domain. Being an active Tech Enthusiast, I am exploring technical domains. As a person interested in Content Creation, I used to write Tech Blogs at <a href="https://gouthamrajesh.blogspot.com/">Blogger.</a> Also an active volunteer at various Technical Organization such as <a href="https://ieeegecbh.org/">IEEE SB GECBH</a>, <a href="https://ieeekerala.org/">IEEE Kerala Section</a>, <a href="https://www.csigecbh.in/">CSI</a> and much more...
+    <p>Myself <a href="https://gouthamrajesh.me/">Goutham Rajesh</a> currently pursuing 2nd Year B.Tech at GEC Barton Hill in IT Domain. Being an active Tech Enthusiast, I am exploring technical domains.</a> Also an active volunteer at various Technical Organization such as <a href="https://ieeegecbh.org/">IEEE SB GECBH</a>, <a href="https://ieeekerala.org/">IEEE Kerala Section</a>, <a href="https://www.csigecbh.in/">CSI</a> and much more...
 </p>
 <ul>
   <li>🔭 I’m currently learning to develop Websites, Applications and actively digging deep into Competitive Coding</li>
