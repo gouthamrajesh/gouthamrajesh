@@ -27,7 +27,7 @@
   <p align ="center"> 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=gouthamrajesh">
   </p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=gouthamrajesh&custom_title=Goutham%20Rajesh's%20Contribution%20Graph&theme=react-dracula">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gouthamrajesh">
 
   
   <h2>🛠Languages and Tools</h2>
