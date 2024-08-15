@@ -1,5 +1,5 @@
 # 💫 About Me:
-Product Manager | Developer | Volunteer<br>I Build Innovative Solutions.<br>Currently, in search of problems to be solved.<br>Graduate from Government Engineering College Barton Hill in 2024 with an IT Major. I've been an active volunteer with IEEE, Microsoft, KSUM and much more...<br>Ping me at: gouthamrajesh02@gmail.com 
+Under Maintenance
 
 
 ## 🌐 Socials:
