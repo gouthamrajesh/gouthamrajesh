@@ -1,5 +1,6 @@
 # 💫 About Me:
-Under Maintenance
+AI Product Engineer and AI Researcher working on research to predict IQ of individuals.
+Open for chats and discussions on AI and anything that is interesting... <a href='cal.id/gouthamrajesh/chai-pe-charcha'>Pick a Slot</a>
 
 
 ## 🌐 Socials:
